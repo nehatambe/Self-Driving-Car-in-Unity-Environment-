@@ -1,0 +1,7 @@
+__pycache__/
+.python-version
+.idea/
+pos_detect_model.json
+pos_detect_model.h5-*
+q_learning_model.json
+q_learning_model.h5*-*
